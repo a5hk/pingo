@@ -1,1 +1,1 @@
-Simple wrapper around `ping` command
+Simple wrapper around Linux `ping` command.
